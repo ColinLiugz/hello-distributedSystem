@@ -1,0 +1,15 @@
+[submodule "hello-distributedSystem-common"]
+	path = hello-distributedSystem-common
+	url = https://github.com/ColinLiugz/hello-distributedSystem-common.git
+[submodule "hello-distributedSystem-facade"]
+	path = hello-distributedSystem-facade
+	url = https://github.com/ColinLiugz/hello-distributedSystem-facade.git
+[submodule "hello-distributedSystem-service"]
+	path = hello-distributedSystem-service
+	url = https://github.com/ColinLiugz/hello-distributedSystem-service.git
+[submodule "hello-distributedSystem-web"]
+	path = hello-distributedSystem-web
+	url = https://github.com/ColinLiugz/hello-distributedSystem-web.git
+[submodule "hello-distributedSystem-queue"]
+	path = hello-distributedSystem-queue
+	url = https://github.com/ColinLiugz/hello-distributedSystem-queue.git

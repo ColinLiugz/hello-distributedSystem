@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hello-distributedSystem-common" />
+        <module name="hello-distributedSystem-facade" />
+        <module name="hello-distributedSystem-queue" />
+        <module name="hello-distributedSystem-service" />
+        <module name="hello-distributedSystem-web" />
+        <module name="hello-dubbo" />
+        <module name="hello-dubbo-common" />
+        <module name="hello-dubbo-facade" />
+        <module name="hello-dubbo-queue" />
+        <module name="hello-dubbo-service" />
+        <module name="hello-dubbo-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hello-distributedSystem-commen" target="1.8" />
+      <module name="hello-distributedSystem-common" target="1.8" />
+      <module name="hello-distributedSystem-facade" target="1.5" />
+      <module name="hello-distributedSystem-queue" target="1.8" />
+      <module name="hello-distributedSystem-service" target="1.8" />
+      <module name="hello-distributedSystem-web" target="1.8" />
+      <module name="hello-dubbo" target="1.8" />
+      <module name="hello-dubbo-common" target="1.8" />
+      <module name="hello-dubbo-facade" target="1.5" />
+      <module name="hello-dubbo-queue" target="1.8" />
+      <module name="hello-dubbo-service" target="1.8" />
+      <module name="hello-dubbo-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

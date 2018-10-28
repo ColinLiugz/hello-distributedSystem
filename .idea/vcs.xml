@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/hello-distributedSystem-facade" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-distributedSystem-queue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-distributedSystem-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-distributedSystem-web" vcs="Git" />
+  </component>
+</project>

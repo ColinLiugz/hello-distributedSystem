@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hello-dubbo-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-dubbo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-dubbo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-dubbo-common/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-dubbo-queue/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-distributedSystem-queue/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-distributedSystem-commen/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-distributedSystem-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-distributedSystem-service/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-distributedSystem-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
