@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/hello-distributedSystem-facade/pom.xml" />
         <option value="$PROJECT_DIR$/hello-distributedSystem-service/pom.xml" />
         <option value="$PROJECT_DIR$/hello-distributedSystem-web/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-distributedSystem-common/pom.xml" />
       </list>
     </option>
   </component>
